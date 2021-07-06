@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 5px;
+    border-color: blue;
+    border-style: inset;
+    background-color: black;
+    color: snow;
+}
+#textos{
+    text-align: left;
+    margin-right: 500px;
+}
+footer{
+    text-align: left;
+    color: blue;
+}
+footer img{
+    margin-top: -5px;
+}
