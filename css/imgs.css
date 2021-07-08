@@ -4,6 +4,7 @@
 #icon{
     width: 250px;
     text-align: right;
+    float: right;
 }
 .tiradefundo{
     margin: auto;
